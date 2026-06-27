@@ -1,2 +1,1 @@
-
-[![GitHub Roast 评分徽章](https://githubroast.icu/api/badge/Ryderwe)](https://githubroast.icu/u/Ryderwe)
+[![GitHub Roast](https://githubroast.icu/api/card/ryderwe)](https://githubroast.icu/u/ryderwe)
