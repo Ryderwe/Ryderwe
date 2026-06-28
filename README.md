@@ -1,4 +1,4 @@
-```md
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A5CFF,100:92FE9D&height=180&section=header&text=Hi,%20I'm%20Leguan&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 
 <div align="center">
@@ -128,7 +128,6 @@ const leguan = {
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:7A5CFF,100:00C9FF&height=120&section=footer" />
-```
 
 [![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/ryderwe)](https://githubroast.dev/u/ryderwe)
 
