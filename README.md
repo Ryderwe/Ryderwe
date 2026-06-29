@@ -58,6 +58,14 @@ const leguan = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryderwe&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryderwe/Ryderwe/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryderwe/Ryderwe/output/github-contribution-grid-snake.svg" />
+  <img alt="Ryderwe GitHub contribution snake" src="https://raw.githubusercontent.com/Ryderwe/Ryderwe/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 ---
@@ -130,4 +138,3 @@ const leguan = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:7A5CFF,100:00C9FF&height=120&section=footer" />
 
 [![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/ryderwe)](https://githubroast.dev/u/ryderwe)
-
