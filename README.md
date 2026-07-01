@@ -70,38 +70,6 @@ const leguan = {
 
 ---
 
-## Trophy Wall
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ryderwe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
-
-</div>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Ryderwe/Sollin-Music-Desktop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryderwe&repo=Sollin-Music-Desktop&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Ryderwe/Youmi-Music-IOS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryderwe&repo=Youmi-Music-IOS&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Ryderwe/Firefly">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryderwe&repo=Firefly&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Ryderwe/UniER">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryderwe&repo=UniER&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
 ## Focus Map
 
 <div align="center">
