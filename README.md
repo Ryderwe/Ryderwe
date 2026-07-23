@@ -37,55 +37,6 @@ const leguan = {
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ryderwe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryderwe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=Ryderwe&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" />
-
-</div>
-
----
-
-## Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryderwe&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryderwe/Ryderwe/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryderwe/Ryderwe/output/github-contribution-grid-snake.svg" />
-  <img alt="Ryderwe GitHub contribution snake" src="https://raw.githubusercontent.com/Ryderwe/Ryderwe/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## Focus Map
-
-<div align="center">
-
-| Area | What I Build |
-| --- | --- |
-| Music | Desktop, iOS and web music experiences |
-| Web | Astro, TypeScript, HTML, APIs and product sites |
-| Automation | Scripts, bots, check-in tools and workflow helpers |
-| AI Tools | Agent skills, research tools and practical AI utilities |
-
-</div>
-
----
-
-<div align="center">
 
 ### Connect
 
