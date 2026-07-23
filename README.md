@@ -40,12 +40,6 @@ const leguan = {
 
 ### Connect
 
-<a href="https://github.com/Ryderwe">
-  <img src="https://img.shields.io/badge/GitHub-Ryderwe-181717?style=for-the-badge&logo=github" />
-</a>
-
-<br /><br />
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" />
 
 <br />
